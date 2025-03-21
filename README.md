@@ -9,3 +9,4 @@ program i made.. i guess
 
 # Building
 i fucjed up the files
+open in visual c++ 6.0 or something
